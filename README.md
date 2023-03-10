@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EhsanPoorshakoor
 - 👀 I’m interested in python
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning Machine learning, Deep learning
 - 💞️ I’m looking to collaborate on starting new project.
 - 📫 How to reach me by setterehsan@gmail.com
 
